@@ -3,16 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "5948a917d4d5be08ccc2200661842772",
+const RESOURCES = {"flutter_bootstrap.js": "5b4d2fdbdd78dadacfe8b1216200bf6a",
 "version.json": "b8be09738946b9de30b49f6dd8b4c338",
 "index.html": "83602e79b37d0845d4f85f7f74696694",
 "/": "83602e79b37d0845d4f85f7f74696694",
-"main.dart.js": "5d725d21a0820d9175b9cb55d64af393",
+"main.dart.js": "858843986e95ebdde209b5e2983b2257",
+"HoPla-logo-16.jpg": "cdc14391f5fb05e0a465cf5c0a03df9a",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/HoPla-logo-192.jpg": "3f0d9643ece95786a8139f88cbcb5815",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+"icons/HoPla-logo-512.jpg": "3e24e89feb90e60e652cf3f59508b3b4",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "20e685f827cb97adca37c671c4ce5b3b",
 "assets/AssetManifest.json": "ccb89560e863f3d6ad732b77efcf9d85",
