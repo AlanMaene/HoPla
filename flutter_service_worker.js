@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "039803a2142be5fd8e80d08e7ceb3d2e",
+const RESOURCES = {"flutter_bootstrap.js": "0f8055a206ae06d164bd3e2eb0e07d20",
 "version.json": "b8be09738946b9de30b49f6dd8b4c338",
 "index.html": "83602e79b37d0845d4f85f7f74696694",
 "/": "83602e79b37d0845d4f85f7f74696694",
-"main.dart.js": "b093c94cb15da925d9c30e230abeff84",
+"main.dart.js": "4f64b2314f757e3df3807175e5ec5f83",
 "HoPla-logo-16.jpg": "cdc14391f5fb05e0a465cf5c0a03df9a",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon-old.png": "5dcef449791fa27946b3d35ad8803796",
